@@ -1,8 +1,45 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+<p align="center">
+  <a href="https://www.learnwithjason.dev">
+    <img src="https://res.cloudinary.com/jlengstorf/image/upload/q_auto,f_auto,w_240/v1579281727/lwj/learnwithjason.png" alt="Learn With Jason" width="120" />
+  </a>
+</p>
+<h1 align="center">
+  Animation With Svelte (with Scott Tolinski)
+</h1>
+<h3 align="center">
+  This app was built live on <em>Learn With Jason</em> and it was super fun and I’m sad you weren’t there.
+</h3>
+<p align="center">
+  But don’t worry! You can still: 
+  <a href="https://www.learnwithjason.dev/animation-with-svelte"><strong>watch the video</strong></a> · 
+  <a href="https://svelte-animation.netlify.app"><strong>see the demo</strong></a> · 
+  <a href="https://app.netlify.com/start/deploy?repository=https://github.com/learnwithjason/svelte-animation&utm_source=learnwithjason&utm_medium=github&utm_campaign=devex"><strong>deploy this project</strong></a> · 
+  <a href="https://jason.af/lwj/schedule"><strong>see upcoming episodes</strong></a>
+</p>
 
----
+&nbsp;
 
-# svelte app
+Svelte is gaining a lot of popularity in the JavaScript community, and its robust animation capabilities probably have a lot to do with that. in this episode, Scott Tolinski will teach us how to animate in Svelte 🔥
+
+&nbsp;
+
+## More Information
+
+- [Watch this app get built live + see links and additional resources][episode]
+- [Follow _Learn With Jason_ on Twitch][twitch] to watch future episodes live
+- [Add the _Learn With Jason_ schedule to your Google Calendar][cal]
+
+&nbsp;
+<p align="center">
+  <a href="https://app.netlify.com/start/deploy?repository=https://github.com/learnwithjason/svelte-animation&utm_source=learnwithjason&utm_medium=github&utm_campaign=devex">
+    <img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy this project to Netlify" />
+  </a>
+</p>
+
+[episode]: https://www.learnwithjason.dev/animation-with-svelte
+[twitch]: https://jason.af/twitch
+[cal]: https://jason.af/lwj/cal
+## This was created using the Svelte template
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
